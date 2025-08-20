@@ -1,4 +1,4 @@
 # Jira-with-Python
 Task :- AI in Helthcare
-Please explain in 10 
+Please explain in only 10 line exactly.
 
