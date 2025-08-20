@@ -1,4 +1,4 @@
-# Jira-with-Python
-Task :- Why we need Machine learning?
+
+Task :- Give me information about Devendra Fadanvis,
 Please explain in only 10 line exactly.
 
