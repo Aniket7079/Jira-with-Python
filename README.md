@@ -1,4 +1,2 @@
 
-Task :- Give me information about Devendra Fadanvis,
-Please explain in only 10 line exactly.
-
+Task :- Why we use python to building the Machine learning model?
