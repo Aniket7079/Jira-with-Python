@@ -1,2 +1,2 @@
 Problem Statement : 
-Task :- Explain the Large Language Model for the Generative AI and also make the pdf file of the those responce.
+Task :- Explain the Machine Learning any two algorithm and also make the pdf or Docs. file where you genereted responce should mention.
