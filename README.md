@@ -1,5 +1,4 @@
 Problem Statement : 
-Task :- Explain in full details of How the DevOps work in the software management?
-
+Task :- Explain in full details of what exactly does the Testing phase i software development?
 
 
